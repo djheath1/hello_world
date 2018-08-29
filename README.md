@@ -1,3 +1,3 @@
 # hello_world
-A place to add ideas
-I am hoping to learn coding on this platform.
+A place to add ideas where
+I am hoping to learn coding.
